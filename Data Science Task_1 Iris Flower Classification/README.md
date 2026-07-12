@@ -73,5 +73,6 @@ This project was completed as **Task 1** during the **Data Science Internship at
 ## 👨‍💻 Developed By
 
 **Kamrul Haq Mansoori**
+
 *Data Science Intern | Oasis Infobyte*
 
